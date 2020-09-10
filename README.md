@@ -16,4 +16,4 @@ Please fork this repo, then do something
 
 ### Copyright
 
-2020 Tim
+2020 Tim.  All rights reserved
