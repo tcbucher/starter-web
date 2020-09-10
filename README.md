@@ -13,3 +13,7 @@ This is a simple web project.  It can be deployed on any web server.  It can als
 ## How To Contribute
 
 You can contribute by buying me pizza
+
+### Copyright
+
+2020 Tim
